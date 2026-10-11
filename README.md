@@ -23,28 +23,11 @@
 <a href="https://leejungjae.app/resume">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/build-record-static.png">
-    <img src="assets/build-record-motion.gif" alt="개발 기술과 경력: Python·C·TypeScript, React·Next.js, NestJS·FastAPI, PostgreSQL·Redis, Cloudflare·Docker, RAG·CUDA·OpenCL. 2014 해군, 2018 KORYPTO, 2020 DEVELOCK, 2024 HEX-CHAIN, 2026 jailbrain.ai." width="1280">
+    <img src="assets/build-record-motion.gif" alt="개발 여정을 표현한 스키매틱 모션 그래픽. 자세한 내용은 leejungjae.app에서 확인하세요." width="1280">
   </picture>
 </a>
 
-해군 복무 중 독학으로 시작해, 창업과 서비스 운영을 거쳐 지금은 AI 제품을 만들고 있습니다.  
-기획부터 프론트엔드·백엔드·인프라까지 직접 만들고 운영합니다. **[전체 이력 →](https://leejungjae.app/resume)**
-
-<details>
-<summary>기술과 경력을 텍스트로 보기</summary>
-
-| 분야 | 주요 기술 |
-| --- | --- |
-| Languages | Python · C · TypeScript · JavaScript |
-| Frontend | React · Next.js · Three.js · HTML/CSS |
-| Backend | NestJS · FastAPI · WebSocket |
-| Data / Infra | PostgreSQL · Redis · Cloudflare · Docker |
-| AI / GPU | 멀티모델 · RAG · 멀티모달 · CUDA · OpenCL · secp256k1/ECC |
-
-2014 해군 복무·독학 시작 → 2018 KORYPTO 창업 → 2020 DEVELOCK → 2024 HEX-CHAIN DevOps → 2026 jailbrain.ai 개발·운영.
-
-공개 [이력서](https://leejungjae.app/resume)와 [프로필](https://leejungjae.app/about)의 주요 항목을 요약했습니다.
-</details>
+자세한 내용은 [leejungjae.app](https://leejungjae.app)에서 확인할 수 있습니다.
 
 <p align="right"><a href="assets/build-record-static.png">정지 도식 보기</a></p>
 
