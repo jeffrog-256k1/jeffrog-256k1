@@ -18,21 +18,6 @@
 
 ---
 
-### 00 / Build record
-
-<a href="https://leejungjae.app/resume">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/build-record-static.png">
-    <img src="assets/build-record-motion.gif" alt="개발 여정을 표현한 스키매틱 모션 그래픽. 자세한 내용은 leejungjae.app에서 확인하세요." width="1280">
-  </picture>
-</a>
-
-자세한 내용은 [leejungjae.app](https://leejungjae.app)에서 확인할 수 있습니다.
-
-<p align="right"><a href="assets/build-record-static.png">정지 도식 보기</a></p>
-
----
-
 ### 01 / Selected work
 
 <a href="https://leejungjae.app"><img src="assets/leejungjae-app.png" alt="leejungjae.app — 이력서, 포트폴리오와 개발 기록을 한곳에 모은 개인 사이트" width="1280"></a>
@@ -40,14 +25,21 @@
 **[leejungjae.app](https://leejungjae.app)** — 이력서 · 포트폴리오 · 개발 기록  
 만든 것과 만드는 과정을 기록하는 개인 공간입니다. 작업, 경력, 글을 하나의 사이트에서 이어 볼 수 있습니다.
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-map-static.png">
-  <img src="assets/portfolio-map-motion.gif" alt="leejungjae.app 기능도: About은 프로필과 경력, Work는 프로젝트와 GitHub 목록, Log는 개발 기록, Resume는 이력서입니다." width="1280">
-</picture>
+<a href="https://leejungjae.app">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/build-record-static.png">
+    <img src="assets/build-record-motion.gif" alt="개발 여정을 표현한 스키매틱 모션 그래픽." width="1280">
+  </picture>
+</a>
 
-[About](https://leejungjae.app/about)에서 배경을, [Work](https://leejungjae.app/work)에서 만든 것을, [Log](https://leejungjae.app/log)에서 만드는 과정을 볼 수 있습니다. [Resume](https://leejungjae.app/resume)는 경력과 기술을 정리한 웹 이력서입니다.
+<a href="https://leejungjae.app">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-map-static.png">
+    <img src="assets/portfolio-map-motion.gif" alt="leejungjae.app 사이트 구성 모션 그래픽." width="1280">
+  </picture>
+</a>
 
-<p align="right"><a href="assets/portfolio-map-static.png">정지 도식 보기</a></p>
+<p align="right">정지 도식 보기 · <a href="assets/build-record-static.png">Build record</a> · <a href="assets/portfolio-map-static.png">Site map</a></p>
 
 <a href="https://jailbrain.ai"><img src="assets/jailbrain-ai.png" alt="jailbrain.ai — One brain. Two machines. AI 워크스페이스와 금융 AI 알파" width="1280"></a>
 
